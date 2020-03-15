@@ -1,0 +1,161 @@
+Civil:         10000
+Novato:        00000
+Combatiente:   00000
+Experimentado: 00000
+Veterano:      00000
+
+20 puntos gratuitos por creación de personaje
+por cada nivel aumentado el personaje obtiene 
+7p. gratuitos.
+
+Atributos          5 puntos, 1 punto= 4p. gratuitos
+
+Destreza 		1/5
+Percepción 		1/5
+Voluntad 		1/5
+Vigor 			1/5
+Inteligencia 		1/5
+Salud 			1/5
+Energía 		1/5
+
+Defensas           3 puntos , 1 punto= 3p.* gratuitos
+
+Parada 			0/5
+Esquivar 		0/5
+Bloqueo 		0/5
+Metamagia 		0/5
+
+Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
+
+Taumaturgia               0/5
+Fe                        0/5
+Espiritualidad            0/5
+Naturaleza                0/5
+Caos                      0/5
+
+Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
+
+Espadas de una mano    0/5
+Espadas de dos manos   0/5
+Mazas de una mano      0/5
+Mazas de dos manos     0/5
+Hachas de una mano     0/5
+Hachas de dos manos    0/5
+Arcos                  0/5
+Armas de fuego         0/5
+Armas arrojadizas      0/5
+Ballestas              0/5
+Bastones               0/5
+Varitas                0/5
+Dagas                  0/5
+Armas de puño          0/5
+Armas de asta          0/5
+Gujas de guerra        0/5
+Escudo                 0/5
+Sin Armas              0/5 
+
+HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
+
+Habilidades Físicas 
+
+Atletismo 		0/5
+Robo 			0/5
+Sigilo 			0/5
+Forzar cerraduras 	0/5
+Supervivencia 		0/5
+Trepar /escalar 	0/5
+Buscar 			0/5
+
+Habilidades mentales
+
+Alerta 			0/5	
+Aprendizaje 		0/5
+Interpretación 		0/5
+
+Habilidades sociales 	
+
+Subterfugio    		0/5
+Trato con animales 	0/5
+Intimidación  		0/5
+Carisma 		0/5
+
+PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
+
+Artesanías
+
+Alquimia   		0/5
+Sastrería  		0/5
+Desuello  		0/5
+Carpintería  		0/5
+Herborista  		0/5
+Encantamiento  		0/5
+Herrería  		0/5
+Inscripción  		0/5
+Ingeniería  		0/5
+Joyería  		0/5
+Leñador  		0/5
+Minería  		0/5
+Peletería  		0/5
+Granjero  		0/5
+
+Oficios
+
+Bardo  			0/5
+Marinero  		0/5
+Mercader  		0/5
+Cazarrecompensas  	0/5
+Criador de animales  	0/5
+
+Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
+
+Jinete 			0/5
+Pesca 			0/5
+Arqueología 		0/5
+Médico 			0/5
+Cocina 			0/5
+
+MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
+
+Magia 
+
+Arcanismo                   0/5
+Piromancia                  0/5
+Criomancia                  0/5
+Nigromancia                 0/5
+Magia rúnica                0/5
+Demonología                 0/5
+Piromancia vil              0/5
+Magia sangrienta            0/5
+Magia de la sombra          0/5
+Magia druidica: Feral       0/5
+Magia druidica: Equilibrio  0/5
+Magia druidica: Vida        0/5
+Dominio de la luz           0/5
+Magia elemental: Agua       0/5
+Magia elemental: Fuego      0/5
+Magia elemental: Tierra     0/5
+Magia elemental: Aire       0/5
+Chi                         0/5 
+
+Estilos
+
+Maestro de armas           0/5
+Furibundo                  0/5
+Protector                  0/5
+Puntería                   0/5
+Supervivencia              0/5
+Maestro de bestias         0/5
+A.A.M.M. Maestro cervecero 0/5
+A.A.M.M. Caminavientos     0/5
+Asesinato                  0/5
+Sutileza                   0/5
+Forajido                   0/5
+Protector sagrado          0/5
+Represión                  0/5
+Devastación                0/5
+Venganza                   0/5
+Caballero sangriento       0/5
+Caballero de escarcha      0/5
+Caballero profano          0/5
+
+* +1 de coste si es la primera vez.
