@@ -113,6 +113,7 @@ Pesca 			0/5
 Arqueología 		0/5
 Médico 			0/5
 Cocina 			0/5
+Con. mágia   0/5
 
 MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
 
