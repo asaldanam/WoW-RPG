@@ -1,4 +1,4 @@
-Nombre: Dorian Bauer
+Nombre: Dorean Bauer
 Combatiente: 10000
 Raza: Humano
 Clase: Caballero de la Muerte
