@@ -1,8 +1,15 @@
-Civil:         10000
-Novato:        00000
-Combatiente:   00000
-Experimentado: 00000
-Veterano:      00000
+Nombre: Dorian Bauer
+Raza: Humano
+Clase: Caballero de la Muerte
+Título: - 
+Nacimiento: - 
+Residencia: -
+Facción: - 
+Alineación: -
+
+
+
+Combatiente:   10000
 
 20 puntos gratuitos por creación de personaje
 por cada nivel aumentado el personaje obtiene 
@@ -12,7 +19,7 @@ Atributos          5 puntos, 1 punto= 4p. gratuitos
 
 Destreza 		1/5
 Percepción 		1/5
-Voluntad 		1/5
+Voluntad 		2/5      1 DK
 Vigor 			1/5
 Inteligencia 		1/5
 Salud 			1/5
@@ -31,16 +38,16 @@ Taumaturgia            0/5
 Fe                     0/5
 Espiritualidad         0/5
 Naturaleza             0/5
-Caos                   0/5
+Caos                   1/5      1 DK
 
 Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
 
-Espadas de una mano    0/5
-Espadas de dos manos   0/5
-Mazas de una mano      0/5
-Mazas de dos manos     0/5
-Hachas de una mano     0/5
-Hachas de dos manos    0/5
+Espadas de una mano    2/5      1 Humano + 1 DK
+Espadas de dos manos   2/5      1 Humano + 1 DK
+Mazas de una mano      2/5      1 Humano + 1 DK
+Mazas de dos manos     2/5      1 Humano + 1 DK
+Hachas de una mano     1/5      1 DK
+Hachas de dos manos    1/5      1 DK
 Arcos                  0/5
 Armas de fuego         0/5
 Armas arrojadizas      0/5
@@ -49,7 +56,7 @@ Bastones               0/5
 Varitas                0/5
 Dagas                  0/5
 Armas de puño          0/5
-Armas de asta          0/5
+Armas de asta          1/5      1 DK
 Gujas de guerra        0/5
 Escudo                 0/5
 Sin Armas              0/5 
@@ -69,7 +76,7 @@ Buscar 			0/5
 Habilidades mentales
 
 Alerta 			0/5	
-Aprendizaje 		0/5
+Aprendizaje 		1/5      1 Humano
 Interpretación 		0/5
 
 Habilidades sociales 	
@@ -77,7 +84,7 @@ Habilidades sociales
 Subterfugio    		0/5
 Trato con animales 	0/5
 Intimidación  		0/5
-Carisma 		0/5
+Carisma 		1/5     1 Humano
 
 PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
 
@@ -90,11 +97,11 @@ Carpintería  		0/5
 Herborista  		0/5
 Encantamiento  		0/5
 Herrería  		0/5
-Inscripción  		0/5
+Inscripción  		1/5      1 Humano
 Ingeniería  		0/5
 Joyería  		0/5
 Leñador  		0/5
-Minería  		0/5
+Minería  		1/5      1 Humano
 Peletería  		0/5
 Granjero  		0/5
 
@@ -111,6 +118,7 @@ Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
 Jinete 			0/5
 Pesca 			0/5
 Arqueología 		0/5
+Equitación 		1/5     1 DK
 Médico 			0/5
 Cocina 			0/5
 Con. mágia   0/5
@@ -122,11 +130,11 @@ Magia
 Arcanismo                   0/5
 Piromancia                  0/5
 Criomancia                  0/5
-Nigromancia                 0/5
-Magia rúnica                0/5
+Nigromancia                 1/5      1 DK
+Magia rúnica                1/5      1 DK
 Demonología                 0/5
 Piromancia vil              0/5
-Magia sangrienta            0/5
+Magia sangrienta            1/5      1 DK
 Magia de la sombra          0/5
 Magia druidica: Feral       0/5
 Magia druidica: Equilibrio  0/5
@@ -155,8 +163,8 @@ Protector sagrado          0/5
 Represión                  0/5
 Devastación                0/5
 Venganza                   0/5
-Caballero sangriento       0/5
-Caballero de escarcha      0/5
-Caballero profano          0/5
+Caballero sangriento       1/5      1 DK
+Caballero de escarcha      1/5      1 DK
+Caballero profano          1/5      1 DK
 
 * +1 de coste si es la primera vez.
