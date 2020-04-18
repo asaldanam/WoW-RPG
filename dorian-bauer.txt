@@ -1,4 +1,5 @@
 Nombre: Dorian Bauer
+Combatiente: 10000
 Raza: Humano
 Clase: Caballero de la Muerte
 Título: - 
@@ -8,12 +9,8 @@ Facción: -
 Alineación: -
 
 
-
-Combatiente:   10000
-
-20 puntos gratuitos por creación de personaje
-por cada nivel aumentado el personaje obtiene 
-7p. gratuitos.
+90 puntos gratuitos por creación de personaje (combatiente)
+por cada nivel aumentado el personaje obtiene 7p. gratuitos.
 
 Atributos          5 puntos, 1 punto= 4p. gratuitos
 
