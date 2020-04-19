@@ -12,117 +12,116 @@ Alineación: -
 90 puntos gratuitos por creación de personaje (combatiente)
 por cada nivel aumentado el personaje obtiene 7p. gratuitos.
 
-Gratuitos usados: 0 de 90.
+Gratuitos restantes no usados: 0
 
-Atributos          5 puntos, 1 punto= 8p. gratuitos
+Atributos		5 puntos, 1 punto= 4p. gratuitos
 
-Destreza 		3/5             1p + 1pgr (8 gratuitos)
-Percepción 		1/5
-Voluntad 		2/6             1p + 1 DK
-Vigor 			1/5             
-Inteligencia 		3/5             1p + 1pgr (8 gratuitos)
-Salud 			4/5             2p + 1pgr (8 gratuitos)
-Energía 		1/5             
-
-
-Defensas           3 puntos , 1 punto= 6p.* gratuitos
-
-Parada 			4/5             2p + 2pgr (12 gratuitos)
-Esquivar 		0/5
-Bloqueo 		0/5
-Metamagia 		2/5             1p + 1pgr (6 gratuitos)
+Destreza 		⚫⚫⚪⚪⚪		1p
+Percepción 		⚫⚪⚪⚪⚪		
+Voluntad 		⚫⚫⚫⚪⚪		1p + 1 DK
+Vigor 			⚫⚪⚪⚪⚪		             
+Inteligencia 		⚫⚫⚪⚪⚪		1p
+Salud 			⚫⚫⚫⚪⚪		2p
+Energía 		⚫⚫⚪⚪⚪		1p             
 
 
-Habilidades mágicas   1 punto, 1 punto= 6p.* gratuitos
+Defensas           	3 puntos , 1 punto= 3p.* gratuitos
 
-Taumaturgia            0/5
-Fe                     0/5
-Espiritualidad         0/5
-Naturaleza             0/5
-Caos                   4/6              1p + 1 DK + 2pgr (12 gratuitos)
-
-
-Habilidades de armas 5 puntos, 1 punto= 6p.* gratuitos
-
-Espadas de una mano    2/7              1 Humano + 1 DK
-Espadas de dos manos   5/7              3p + 1 Humano + 1 DK
-Mazas de una mano      2/7              1 Humano + 1 DK
-Mazas de dos manos     4/7              2p + 1 Humano + 1 DK
-Hachas de una mano     1/6              1 DK
-Hachas de dos manos    1/6              1 DK
-Arcos                  0/5
-Armas de fuego         0/5
-Armas arrojadizas      0/5
-Ballestas              0/5
-Bastones               0/5
-Varitas                0/5
-Dagas                  0/5
-Armas de puño          0/5
-Armas de asta          1/6              1 DK
-Gujas de guerra        0/5
-Escudo                 0/5
-Sin Armas              0/5 
+Parada 			⚫⚫⚪⚪⚪		2p
+Esquivar 		⚪⚪⚪⚪⚪		
+Bloqueo 		⚪⚪⚪⚪⚪		
+Metamagia 		⚫⚪⚪⚪⚪		1p
 
 
+Habilidades mágicas	1 punto, 1 punto= 3p.* gratuitos
 
-HABILIDADES:      10 puntos, 1 punto= 4p.* gratuitos
+Taumaturgia		⚪⚪⚪⚪⚪
+Fe			⚪⚪⚪⚪⚪
+Espiritualidad		⚪⚪⚪⚪⚪
+Naturaleza		⚪⚪⚪⚪⚪
+Caos			⚫⚫⚪⚪⚪⚪		1p + 1 DK
 
+
+Habilidades de armas 	5 puntos, 1 punto= 3p.* gratuitos
+
+Espadas de una mano	⚫⚫⚪⚪⚪⚪⚪            1 Humano + 1 DK
+Espadas de dos manos	⚫⚫⚫⚫⚪⚪⚪            3p + 1 Humano + 1 DK
+Mazas de una mano     	⚫⚫⚪⚪⚪⚪⚪            1 Humano + 1 DK
+Mazas de dos manos      ⚪⚪⚪⚪⚪⚪⚪            2p + 1 Humano + 1 DK
+Hachas de una manos     ⚪⚪⚪⚪⚪⚪              1 DK
+Hachas de dos manos     ⚪⚪⚪⚪⚪⚪              1 DK
+Arcos                	⚪⚪⚪⚪⚪  
+Armas de fuego        	⚪⚪⚪⚪⚪
+Armas arrojadizas      	⚪⚪⚪⚪⚪
+Ballestas              	⚪⚪⚪⚪⚪
+Bastones               	⚪⚪⚪⚪⚪
+Varitas                	⚪⚪⚪⚪⚪
+Dagas                  	⚪⚪⚪⚪⚪
+Armas de puño          	⚪⚪⚪⚪⚪
+Armas de asta          	⚫⚪⚪⚪⚪⚪              1 DK
+Armas de puño          	⚪⚪⚪⚪⚪
+Armas de puño          	⚪⚪⚪⚪⚪
+Armas de puño          	⚪⚪⚪⚪⚪ 
+
+
+
+HABILIDADES:      	10 puntos, 1 punto= 2p.* gratuitos
 
 Habilidades Físicas 
 
-Atletismo 		2/5             2p
-Robo 			0/5
-Sigilo 			0/5
-Forzar cerraduras 	0/5
-Supervivencia 		0/5
-Trepar /escalar 	0/5
-Buscar 			2/5             2p
+Atletismo          	⚪⚪⚪⚪⚪             2p
+Robo          		⚪⚪⚪⚪⚪
+Sigilo          	⚪⚪⚪⚪⚪
+Forzar cerraduras       ⚪⚪⚪⚪⚪
+Supervivencia          	⚪⚪⚪⚪⚪
+Trepar /escalar         ⚪⚪⚪⚪⚪
+Buscar          	⚪⚪⚪⚪⚪             2p
 
 
 Habilidades mentales
 
-Alerta 			3/5             3p
-Aprendizaje 		1/6             1 Humano
-Interpretación 		0/5
+Alerta          	⚪⚪⚪⚪⚪             3p
+Aprendizaje          	⚪⚪⚪⚪⚪             1 Humano
+Interpretación          ⚪⚪⚪⚪⚪
 
 
 Habilidades sociales 	
 
-Subterfugio    		0/5
-Trato con animales 	0/5
-Intimidación  		3/5             3p
-Carisma 		1/6             1 Humano
+Subterfugio          	⚪⚪⚪⚪⚪
+Trato con animales      ⚪⚪⚪⚪⚪
+Intimidación          	⚪⚪⚪⚪⚪             3p
+Carisma          	⚪⚪⚪⚪⚪             1 Humano
 
 
 
-PROFESIONES        2 puntos, 1 punto= 4p.* gratuitos
+PROFESIONES        	2 puntos, 1 punto= 4p.* gratuitos
 
 
 Artesanías
 
-Alquimia   		0/5
-Sastrería  		0/5
-Desuello  		0/5
-Carpintería  		0/5
-Herborista  		0/5
-Encantamiento  		0/5
-Herrería  		0/5
-Inscripción  		2/6             1p + 1 Humano
-Ingeniería  		0/5
-Joyería  		0/5
-Leñador  		0/5
-Minería  		2/6             1p + 1 Humano
-Peletería  		0/5
-Granjero  		0/5
+Alquimia          	⚪⚪⚪⚪⚪
+Sastrería          	⚪⚪⚪⚪⚪
+Desuello          	⚪⚪⚪⚪⚪
+Carpintería          	⚪⚪⚪⚪⚪
+Herborista          	⚪⚪⚪⚪⚪
+Encantamiento          	⚪⚪⚪⚪⚪
+Herrería          	⚪⚪⚪⚪⚪
+Inscripción          	⚪⚪⚪⚪⚪             1p + 1 Humano
+Ingeniería          	⚪⚪⚪⚪⚪
+Joyería          	⚪⚪⚪⚪⚪
+Leñador          	⚪⚪⚪⚪⚪
+Minería          	⚪⚪⚪⚪⚪             1p + 1 Humano
+Peletería          	⚪⚪⚪⚪⚪
+Granjero          	⚪⚪⚪⚪⚪
 
 
 Oficios
 
-Bardo  			0/5
-Marinero  		0/5
-Mercader  		0/5
-Cazarrecompensas  	0/5
-Criador de animales  	0/5
+Bardo          		⚪⚪⚪⚪⚪
+Marinero          	⚪⚪⚪⚪⚪
+Mercader          	⚪⚪⚪⚪⚪
+Cazarrecompensas        ⚪⚪⚪⚪⚪
+Criador de animales     ⚪⚪⚪⚪⚪
 
 
 Conocimientos      4 puntos, 1 punto= 4p.* gratuitos
