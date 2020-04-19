@@ -69,19 +69,19 @@ HABILIDADES:      	10 puntos, 1 punto= 2p.* gratuitos
 
 Habilidades Físicas 
 
-Atletismo          	⚪⚪⚪⚪⚪             2p
+Atletismo          	⚫⚫⚪⚪⚪             2p
 Robo          		⚪⚪⚪⚪⚪
 Sigilo          	⚪⚪⚪⚪⚪
 Forzar cerraduras       ⚪⚪⚪⚪⚪
 Supervivencia          	⚪⚪⚪⚪⚪
-Trepar /escalar         ⚪⚪⚪⚪⚪
+Trepar /escalar         ⚫⚫⚪⚪⚪
 Buscar          	⚪⚪⚪⚪⚪             2p
 
 
 Habilidades mentales
 
-Alerta          	⚪⚪⚪⚪⚪             3p
-Aprendizaje          	⚪⚪⚪⚪⚪             1 Humano
+Alerta          	⚫⚫⚫⚪⚪             3p
+Aprendizaje          	⚫⚪⚪⚪⚪⚪             1 Humano
 Interpretación          ⚪⚪⚪⚪⚪
 
 
@@ -89,8 +89,8 @@ Habilidades sociales
 
 Subterfugio          	⚪⚪⚪⚪⚪
 Trato con animales      ⚪⚪⚪⚪⚪
-Intimidación          	⚪⚪⚪⚪⚪             3p
-Carisma          	⚪⚪⚪⚪⚪             1 Humano
+Intimidación          	⚫⚫⚫⚪⚪             3p
+Carisma          	⚫⚪⚪⚪⚪⚪             1 Humano
 
 
 
@@ -106,11 +106,11 @@ Carpintería          	⚪⚪⚪⚪⚪
 Herborista          	⚪⚪⚪⚪⚪
 Encantamiento          	⚪⚪⚪⚪⚪
 Herrería          	⚪⚪⚪⚪⚪
-Inscripción          	⚪⚪⚪⚪⚪             1p + 1 Humano
+Inscripción          	⚫⚫⚪⚪⚪⚪             1p + 1 Humano
 Ingeniería          	⚪⚪⚪⚪⚪
 Joyería          	⚪⚪⚪⚪⚪
 Leñador          	⚪⚪⚪⚪⚪
-Minería          	⚪⚪⚪⚪⚪             1p + 1 Humano
+Minería          	⚫⚫⚪⚪⚪⚪             1p + 1 Humano
 Peletería          	⚪⚪⚪⚪⚪
 Granjero          	⚪⚪⚪⚪⚪
 
@@ -126,57 +126,57 @@ Criador de animales     ⚪⚪⚪⚪⚪
 
 Conocimientos      4 puntos, 1 punto= 4p.* gratuitos
 
-Jinete 			3/6             2p + 1 DK
-Pesca 			0/5
-Arqueología 		0/5
-Médico 			0/5
-Cocina 			0/5
-Con. mágia              2/5             2p
+Jinete     		⚫⚫⚫⚪⚪⚪             2p + 1 DK
+Pesca     		⚪⚪⚪⚪⚪
+Arqueología     	⚪⚪⚪⚪⚪
+Médico     		⚪⚪⚪⚪⚪
+Cocina     		⚪⚪⚪⚪⚪
+Con. mágia     		⚪⚪⚪⚪⚪             2p
 
 
 MAGIA Y ESTILOS        3 puntos, 1 punto= 4p.* gratuitos
 
 Magia 
 
-Arcanismo                   0/5
-Piromancia                  0/5
-Criomancia                  0/5
-Nigromancia                 4/6         1p + 1 DK + 2pgr (8 gratuitos)
-Magia rúnica                2/6         1 DK + 1pgr (4 gratuitos)
-Demonología                 0/5
-Piromancia vil              0/5
-Magia sangrienta            5/6         2p + 1 DK + 2pgr (8 gratuitos)
-Magia de la sombra          0/5
-Magia druidica: Feral       0/5
-Magia druidica: Equilibrio  0/5
-Magia druidica: Vida        0/5
-Dominio de la luz           0/5
-Magia elemental: Agua       0/5
-Magia elemental: Fuego      0/5
-Magia elemental: Tierra     0/5
-Magia elemental: Aire       0/5
-Chi                         0/5 
+Arcanismo     		⚪⚪⚪⚪⚪
+Piromancia     		⚪⚪⚪⚪⚪
+Criomancia     		⚪⚪⚪⚪⚪
+Nigromancia     	⚫⚫⚪⚪⚪⚪         1p + 1 DK
+Magia rúnica     	⚫⚪⚪⚪⚪⚪         1 DK
+Demonología     	⚪⚪⚪⚪⚪
+Piromancia vil     	⚪⚪⚪⚪⚪
+Magia sangrienta     	⚫⚫⚫⚪⚪⚪         2p + 1 DK
+Magia de la sombra     	⚪⚪⚪⚪⚪
+druidica: Feral   	⚪⚪⚪⚪⚪
+druidica: Equilibrio	⚪⚪⚪⚪⚪
+druidica: Vida   	⚪⚪⚪⚪⚪
+Dominio de la luz   	⚪⚪⚪⚪⚪
+Magia elemental: Agua   ⚪⚪⚪⚪⚪
+Magia elemental: Fuego  ⚪⚪⚪⚪⚪
+Magia elemental: Tierra ⚪⚪⚪⚪⚪
+Magia elemental: Aire   ⚪⚪⚪⚪⚪
+Chi   			⚪⚪⚪⚪⚪ 
 
 
 Estilos
 
-Maestro de armas           0/5
-Furibundo                  0/5
-Protector                  0/5
-Puntería                   0/5
-Supervivencia              0/5
-Maestro de bestias         0/5
-A.A.M.M. Maestro cervecero 0/5
-A.A.M.M. Caminavientos     0/5
-Asesinato                  0/5
-Sutileza                   0/5
-Forajido                   0/5
-Protector sagrado          0/5
-Represión                  0/5
-Devastación                0/5
-Venganza                   0/5
-Caballero sangriento       3/6		1 DK + 2pgr (8 gratuitos)
-Caballero de escarcha      1/6		1 DK
-Caballero profano          3/6		1 DK + 2pgr (8 gratuitos)
+Maestro de armas   	⚪⚪⚪⚪⚪
+Furibundo   		⚪⚪⚪⚪⚪
+Protector   		⚪⚪⚪⚪⚪
+Puntería   		⚪⚪⚪⚪⚪
+Supervivencia   	⚪⚪⚪⚪⚪
+Maestro de bestias   	⚪⚪⚪⚪⚪
+A.A.M.M. M. cervecer   	⚪⚪⚪⚪⚪
+A.A.M.M. Caminavientos	⚪⚪⚪⚪⚪
+Asesinato   		⚪⚪⚪⚪⚪
+Sutileza   		⚪⚪⚪⚪⚪
+Forajido   		⚪⚪⚪⚪⚪
+Protector sagrado   	⚪⚪⚪⚪⚪
+Represión   		⚪⚪⚪⚪⚪
+Devastación   		⚪⚪⚪⚪⚪
+Venganza   		⚪⚪⚪⚪⚪
+Caballero sangriento   	⚫⚪⚪⚪⚪⚪		1 DK
+Caballero de escarcha   ⚫⚪⚪⚪⚪⚪		1 DK
+Caballero profano   	⚫⚪⚪⚪⚪⚪		1 DK
 
 * +1 de coste si es la primera vez.
