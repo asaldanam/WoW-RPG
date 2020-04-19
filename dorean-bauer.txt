@@ -45,7 +45,7 @@ Caos                   4/6              1p + 1 DK + 2pgr (12 gratuitos)
 Habilidades de armas 5 puntos, 1 punto= 6p.* gratuitos
 
 Espadas de una mano    2/7              1 Humano + 1 DK
-Espadas de dos manos   6/7              3p + 1 Humano + 1 DK + 1pgr (6 gratuitos)
+Espadas de dos manos   5/7              3p + 1 Humano + 1 DK
 Mazas de una mano      2/7              1 Humano + 1 DK
 Mazas de dos manos     4/7              2p + 1 Humano + 1 DK
 Hachas de una mano     1/6              1 DK
