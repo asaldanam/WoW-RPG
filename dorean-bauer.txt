@@ -16,20 +16,20 @@ Gratuitos usados: 90 de 90.
 
 Atributos          5 puntos, 1 punto= 4p. gratuitos
 
-Destreza 		2/5     1p
+Destreza 		2/5             1p
 Percepción 		1/5
-Voluntad 		4/6     2p + 1 DK
-Vigor 			2/5     1p
-Inteligencia 		2/5     1p + 4 gratuitos (1p)
-Salud 			2/5     5 gratuitos (1p)
-Energía 		3/5     9 gratuitos (2)
+Voluntad 		4/6             2p + 1 DK
+Vigor 			2/5             1p
+Inteligencia 		2/5             1p + 4 gratuitos (1p)
+Salud 			2/5             5 gratuitos (1p)
+Energía 		3/5             9 gratuitos (2)
 
 Defensas           3 puntos , 1 punto= 3p.* gratuitos
 
-Parada 			3/5     2p + 3 gratuitos (1p)
+Parada 			3/5             2p + 3 gratuitos (1p)
 Esquivar 		0/5
 Bloqueo 		0/5
-Metamagia 		2/5     1p + 3 gratuitos (1p)
+Metamagia 		2/5             1p + 3 gratuitos (1p)
 
 Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
 
@@ -37,16 +37,16 @@ Taumaturgia            0/5
 Fe                     0/5
 Espiritualidad         0/5
 Naturaleza             0/5
-Caos                   3/5      1p + 1 DK + 3 gratuitos (1p)
+Caos                   3/5              1p + 1 DK + 3 gratuitos (1p)
 
 Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
 
-Espadas de una mano    2/7      1 Humano + 1 DK
-Espadas de dos manos   7/7      3p + 1 Humano + 1 DK + 6 gratuitos (2p)
-Mazas de una mano      2/7      1 Humano + 1 DK
-Mazas de dos manos     4/7      2p + 1 Humano + 1 DK
-Hachas de una mano     1/6      1 DK
-Hachas de dos manos    1/6      1 DK
+Espadas de una mano    2/7              1 Humano + 1 DK
+Espadas de dos manos   7/7              3p + 1 Humano + 1 DK + 6 gratuitos (2p)
+Mazas de una mano      2/7              1 Humano + 1 DK
+Mazas de dos manos     4/7              2p + 1 Humano + 1 DK
+Hachas de una mano     1/6              1 DK
+Hachas de dos manos    1/6              1 DK
 Arcos                  0/5
 Armas de fuego         0/5
 Armas arrojadizas      0/5
@@ -55,7 +55,7 @@ Bastones               0/5
 Varitas                0/5
 Dagas                  0/5
 Armas de puño          0/5
-Armas de asta          1/6      1 DK
+Armas de asta          1/6              1 DK
 Gujas de guerra        0/5
 Escudo                 0/5
 Sin Armas              0/5 
@@ -64,26 +64,26 @@ HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
 
 Habilidades Físicas 
 
-Atletismo 		2/5     2p
+Atletismo 		2/5             2p
 Robo 			0/5
 Sigilo 			0/5
 Forzar cerraduras 	0/5
 Supervivencia 		0/5
 Trepar /escalar 	0/5
-Buscar 			2/5     2p
+Buscar 			2/5             2p
 
 Habilidades mentales
 
-Alerta 			4/5     3p + 2 gratuitos (1p)
-Aprendizaje 		1/6     1 Humano + 2 gratuitos (1p)
+Alerta 			4/5             3p + 2 gratuitos (1p)
+Aprendizaje 		1/6             1 Humano + 2 gratuitos (1p)
 Interpretación 		0/5
 
 Habilidades sociales 	
 
 Subterfugio    		0/5
 Trato con animales 	0/5
-Intimidación  		3/5     3p + 2 gratuitos (1p)
-Carisma 		1/6     1 Humano
+Intimidación  		3/5             3p + 2 gratuitos (1p)
+Carisma 		1/6             1 Humano
 
 PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
 
@@ -96,11 +96,11 @@ Carpintería  		0/5
 Herborista  		0/5
 Encantamiento  		0/5
 Herrería  		0/5
-Inscripción  		2/5      1p + 1 Humano
+Inscripción  		2/5             1p + 1 Humano
 Ingeniería  		0/5
 Joyería  		0/5
 Leñador  		0/5
-Minería  		2/5      1p + 1 Humano
+Minería  		2/5             1p + 1 Humano
 Peletería  		0/5
 Granjero  		0/5
 
@@ -114,12 +114,12 @@ Criador de animales  	0/5
 
 Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
 
-Jinete 			4/6     2p + 1 DK + 2 gratuitos (1p)
+Jinete 			4/6             2p + 1 DK + 2 gratuitos (1p)
 Pesca 			0/5
 Arqueología 		0/5
 Médico 			0/5
 Cocina 			0/5
-Con. mágia              4/5     2p + 4 gratuitos (2p)
+Con. mágia              4/5             2p + 4 gratuitos (2p)
 
 MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
 
@@ -128,7 +128,7 @@ Magia
 Arcanismo                   0/5
 Piromancia                  0/5
 Criomancia                  0/5
-Nigromancia                 5/6		1p + 1 DK + 9 gratuitos (3p)
+Nigromancia                 5/6         1p + 1 DK + 9 gratuitos (3p)
 Magia rúnica                4/6         1 DK + 9 gratuitos (3p)
 Demonología                 0/5
 Piromancia vil              0/5
